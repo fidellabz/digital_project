@@ -1,0 +1,36 @@
+.gallery-container {
+    padding-top: 20px;
+    text-align: center;
+  }
+    
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1170px;
+  }
+  
+  .photo {
+    width: 210px;
+    height: 260px;
+    margin: 10px;
+  }
+  
+  .pagination {
+    display: flex;
+    margin-top: 40px;
+  }
+  
+  .n1-color{
+    color: #000000;
+  }
+
+  .nav-gallery{
+    margin-left: 20px;
+  }
+
+  .nav-button {
+    margin: 0 5px;
+    border: 0.9px solid #E0E0E0;
+  }
+  

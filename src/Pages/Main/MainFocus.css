@@ -1,0 +1,10 @@
+.main-focus {
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .focus-items {
+    display: flex;
+    justify-content: space-around;
+  }
+  
