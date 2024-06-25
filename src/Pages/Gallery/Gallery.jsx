@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import './Gallery.css';
-import '../style.css'
+import '../style.css';
 
 const Gallery = () => {
   const [photos, setPhotos] = useState([]);
@@ -11,7 +11,6 @@ const Gallery = () => {
       .then(data => setPhotos(data));
   }, []);
 
-
   return (
     <div className='container'>
       <h1>Photo</h1>
@@ -21,7 +20,7 @@ const Gallery = () => {
         <div className="gallery">
           {photos.map(photo => (
             <div key={photo.id} className="photo-card">
-              <img src={photo.url} alt={`Photo ${photo.id}`} className="photo" />
+              <img src={photo.src} alt={`Photo ${photo.id}`} className="photo" />
             </div>
           ))}
         </div>

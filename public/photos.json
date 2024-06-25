@@ -1,43 +1,12 @@
 [
-    {
-      "id": 1,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 2,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 3,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 4,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 5,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 6,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 7,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 8,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 9,
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 10,
-      "url": "https://via.placeholder.com/150"
-    }
-  ]
-  
+  { "id": 1, "src": "../src/assets/gal1.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 2, "src": "../src/assets/gal2.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 3, "src": "../src/assets/gal3.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 4, "src": "../src/assets/gal4.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 5, "src": "../src/assets/gal5.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 6, "src": "../src/assets/gal6.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 7, "src": "../src/assets/gal7.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 8, "src": "../src/assets/gal8.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 9, "src": "../src/assets/gal9.png", "type": "image/png", "sizes": "210x260" },
+  { "id": 10, "src": "../src/assets/gal10.png", "type": "image/png", "sizes": "210x260" }
+]
