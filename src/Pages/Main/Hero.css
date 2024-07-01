@@ -144,6 +144,8 @@
   text-transform: uppercase;
   cursor: pointer;
   background-color: #fff;
+  color: #000;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .btn-read-more:hover {
